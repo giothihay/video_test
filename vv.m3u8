@@ -4,6 +4,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:2.400000,
 #EXT-X-BYTERANGE:416984@0
+<<<<<<< HEAD
 https://drive.google.com/uc?id=1C3r8DFFt6YCNHPFrKUqG5BTUbMQ80ClU&export=download
 #EXTINF:2.400000,
 #EXT-X-BYTERANGE:274104@416984
@@ -11,6 +12,15 @@ https://drive.google.com/uc?id=1C3r8DFFt6YCNHPFrKUqG5BTUbMQ80ClU&export=download
 #EXTINF:3.440000,
 #EXT-X-BYTERANGE:330128@0
 https://drive.google.com/uc?id=1C3r8DFFt6YCNHPFrKUqG5BTUbMQ80ClU&export=download
+=======
+https://drive.google.com/open?id=1C3r8DFFt6YCNHPFrKUqG5BTUbMQ80ClU
+#EXTINF:2.400000,
+#EXT-X-BYTERANGE:274104@416984
+https://raw.githubusercontent.com/giothihay/video_test/master/output0.ts
+#EXTINF:3.440000,
+#EXT-X-BYTERANGE:330128@0
+https://raw.githubusercontent.com/giothihay/video_test/master/output1.ts
+>>>>>>> 7035356a7d24c4981edaeaf591236a38bdf16d07
 #EXTINF:1.960000,
 #EXT-X-BYTERANGE:234248@330128
 https://raw.githubusercontent.com/giothihay/video_test/master/output1.ts
